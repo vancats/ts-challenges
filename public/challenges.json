@@ -1,5 +1,12 @@
 [
   {
+    "id": "4",
+    "en": "4-easy-pick",
+    "zh": "Pick",
+    "difficulty": "easy",
+    "path": "./src/4-easy-pick/README.md"
+  },
+  {
     "id": "13",
     "en": "13-warm-hello-world",
     "zh": "Hello World",
