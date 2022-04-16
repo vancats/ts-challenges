@@ -7,6 +7,13 @@
     "path": "./src/4-easy-pick/README.md"
   },
   {
+    "id": "7",
+    "en": "7-easy-readonly",
+    "zh": "Readonly",
+    "difficulty": "easy",
+    "path": "./src/7-easy-readonly/README.md"
+  },
+  {
     "id": "13",
     "en": "13-warm-hello-world",
     "zh": "Hello World",
