@@ -26,5 +26,12 @@
     "zh": "Hello World",
     "difficulty": "easy",
     "path": "./src/13-warm-hello-world/README.md"
+  },
+  {
+    "id": "14",
+    "en": "14-easy-first",
+    "zh": "First of Array",
+    "difficulty": "easy",
+    "path": "./src/14-easy-first/README.md"
   }
 ]
