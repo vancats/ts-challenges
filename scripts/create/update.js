@@ -71,20 +71,20 @@ const updateMarkdown = (challenges) => {
 
   md += `<br><img src="https://img.shields.io/badge/easy-${easy.length}-7aad0c" alt="${easy.length}"/><br>`
   easy.forEach(title => {
-    const alias = title.en.replace(/-/g, '_')
-    md += `<a href="${title.path}"><img src="https://img.shields.io/badge/${alias}-7aad0c" alt="${title.en}" /></a> `
+    const alias = `${title.id}_${title.zh.replace(/-/g, '_')}`
+    md += `<a href="${title.path}"><img src="https://img.shields.io/badge/${alias}-7aad0c" alt="${title.zh}" /></a> `
   })
 
   md += `<br><br><img src="https://img.shields.io/badge/medium-${medium.length}-d9901a" alt="${medium.length}"/><br>`
   medium.forEach(title => {
-    const alias = title.en.replace(/-/g, '_')
-    md += `<a href="${title.path}"><img src="https://img.shields.io/badge/${alias}-7aad0c" alt="13" alt="${title.en}"/></a> `
+    const alias = `${title.id}_${title.zh.replace(/-/g, '_')}`
+    md += `<a href="${title.path}"><img src="https://img.shields.io/badge/${alias}-7aad0c" alt="13" alt="${title.zh}"/></a> `
   })
 
   md += `<br><br><img src="https://img.shields.io/badge/hard-${hard.length}-de3d37" alt="${hard.length}"/><br>`
   hard.forEach(title => {
-    const alias = title.en.replace(/-/g, '_')
-    md += `<a href="${title.path}"><img src="https://img.shields.io/badge/${alias}-7aad0c" alt="${title.en}" /></a> `
+    const alias = `${title.id}_${title.zh.replace(/-/g, '_')}`
+    md += `<a href="${title.path}"><img src="https://img.shields.io/badge/${alias}-7aad0c" alt="${title.zh}" /></a> `
   })
 
   fs.writeFileSync('./README.md', md)

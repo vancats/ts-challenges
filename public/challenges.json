@@ -40,5 +40,12 @@
     "zh": "Last of Array",
     "difficulty": "medium",
     "path": "./src/15-medium-last/README.md"
+  },
+  {
+    "id": "18",
+    "en": "18-easy-tuple-length",
+    "zh": "Length of Tuple",
+    "difficulty": "easy",
+    "path": "./src/18-easy-tuple-length/README.md"
   }
 ]
