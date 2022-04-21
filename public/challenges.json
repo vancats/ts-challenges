@@ -33,5 +33,12 @@
     "zh": "First of Array",
     "difficulty": "easy",
     "path": "./src/14-easy-first/README.md"
+  },
+  {
+    "id": "15",
+    "en": "15-medium-last",
+    "zh": "Last of Array",
+    "difficulty": "medium",
+    "path": "./src/15-medium-last/README.md"
   }
 ]
