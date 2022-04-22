@@ -47,5 +47,12 @@
     "zh": "Length of Tuple",
     "difficulty": "easy",
     "path": "./src/18-easy-tuple-length/README.md"
+  },
+  {
+    "id": "43",
+    "en": "43-easy-exclude",
+    "zh": "Exclude",
+    "difficulty": "easy",
+    "path": "./src/43-easy-exclude/README.md"
   }
 ]
