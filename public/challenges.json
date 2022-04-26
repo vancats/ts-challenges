@@ -68,5 +68,12 @@
     "zh": "If",
     "difficulty": "easy",
     "path": "./src/268-easy-if/README.md"
+  },
+  {
+    "id": "533",
+    "en": "533-easy-concat",
+    "zh": "Concat",
+    "difficulty": "easy",
+    "path": "./src/533-easy-concat/README.md"
   }
 ]
