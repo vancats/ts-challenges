@@ -61,5 +61,12 @@
     "zh": "Awaited",
     "difficulty": "easy",
     "path": "./src/189-easy-awaited/README.md"
+  },
+  {
+    "id": "268",
+    "en": "268-easy-if",
+    "zh": "If",
+    "difficulty": "easy",
+    "path": "./src/268-easy-if/README.md"
   }
 ]
