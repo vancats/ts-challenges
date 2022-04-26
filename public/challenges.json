@@ -75,5 +75,12 @@
     "zh": "Concat",
     "difficulty": "easy",
     "path": "./src/533-easy-concat/README.md"
+  },
+  {
+    "id": "898",
+    "en": "898-easy-includes",
+    "zh": "Includes",
+    "difficulty": "easy",
+    "path": "./src/898-easy-includes/README.md"
   }
 ]
