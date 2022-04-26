@@ -89,5 +89,12 @@
     "zh": "Push",
     "difficulty": "easy",
     "path": "./src/3057-easy-push/README.md"
+  },
+  {
+    "id": "3060",
+    "en": "3060-easy-unshift",
+    "zh": "Unshift",
+    "difficulty": "easy",
+    "path": "./src/3060-easy-unshift/README.md"
   }
 ]
