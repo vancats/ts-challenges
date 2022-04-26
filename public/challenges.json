@@ -82,5 +82,12 @@
     "zh": "Includes",
     "difficulty": "easy",
     "path": "./src/898-easy-includes/README.md"
+  },
+  {
+    "id": "3057",
+    "en": "3057-easy-push",
+    "zh": "Push",
+    "difficulty": "easy",
+    "path": "./src/3057-easy-push/README.md"
   }
 ]

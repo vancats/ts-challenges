@@ -1,4 +1,4 @@
-<!-- # Typescript -->
+# Typescript
 
 ### 类型
 
