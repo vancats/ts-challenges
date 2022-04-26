@@ -96,5 +96,12 @@
     "zh": "Unshift",
     "difficulty": "easy",
     "path": "./src/3060-easy-unshift/README.md"
+  },
+  {
+    "id": "3312",
+    "en": "3312-easy-parameters",
+    "zh": "Parameters",
+    "difficulty": "easy",
+    "path": "./src/3312-easy-parameters/README.md"
   }
 ]
