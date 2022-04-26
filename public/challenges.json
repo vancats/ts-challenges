@@ -54,5 +54,12 @@
     "zh": "Exclude",
     "difficulty": "easy",
     "path": "./src/43-easy-exclude/README.md"
+  },
+  {
+    "id": "189",
+    "en": "189-easy-awaited",
+    "zh": "Awaited",
+    "difficulty": "easy",
+    "path": "./src/189-easy-awaited/README.md"
   }
 ]
