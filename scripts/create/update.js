@@ -17,7 +17,7 @@ const update = ({ id, en, zh, difficulty }) => {
 
     fs.writeFileSync(
       `src/${en}/README.md`,
-      `# ${zh}\r\n\r\n`,
+      `# ${zh}\r\n\r\nfor example\r\n\r\n\`\`\`ts\r\n\r\n\`\`\``,
     )
 
     const challenges = updateDataJson({
