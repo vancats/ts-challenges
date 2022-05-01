@@ -1,6 +1,7 @@
 # Get Return Type
 
 for example
+
 ```ts
 const fn = (v: boolean) => {
   if (v)

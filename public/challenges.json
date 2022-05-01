@@ -7,6 +7,13 @@
     "path": "./src/2-medium-return-type/README.md"
   },
   {
+    "id": "3",
+    "en": "3-medium-omit",
+    "zh": "Omit",
+    "difficulty": "medium",
+    "path": "./src/3-medium-omit/README.md"
+  },
+  {
     "id": "4",
     "en": "4-easy-pick",
     "zh": "Pick",
