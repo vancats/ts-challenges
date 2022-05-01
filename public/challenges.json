@@ -1,5 +1,12 @@
 [
   {
+    "id": "2",
+    "en": "2-medium-return-type",
+    "zh": "Get Return Type",
+    "difficulty": "medium",
+    "path": "./src/2-medium-return-type/README.md"
+  },
+  {
     "id": "4",
     "en": "4-easy-pick",
     "zh": "Pick",
