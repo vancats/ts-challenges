@@ -42,6 +42,13 @@
     "path": "./src/9-medium-deep-readonly/README.md"
   },
   {
+    "id": "10",
+    "en": "10-medium-tuple-to-union",
+    "zh": "Tuple to Union",
+    "difficulty": "medium",
+    "path": "./src/10-medium-tuple-to-union/README.md"
+  },
+  {
     "id": "11",
     "en": "11-easy-tuple-to-object",
     "zh": "Tuple to Object",
